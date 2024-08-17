@@ -2,4 +2,4 @@
 
 Usage:
 
-'''mvn com.mayer.java:mvn-tree-analyzer:1.0-SNAPSHOT:analyze-transitive-deps'''
+mvn com.mayer.java:mvn-tree-analyzer:1.0-SNAPSHOT:analyze-transitive-deps
